@@ -63,17 +63,7 @@ end
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'en_to_zh'
-```
-
-And then execute:
-```bash
-$ bundle
-```
-
-Or install it yourself as:
-```bash
-$ gem install en_to_zh
+gem 'en_to_zh', git: 'git@github.com:Jayzen/en_to_zh.git'
 ```
 
 ## Contributing
